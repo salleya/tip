@@ -5,7 +5,7 @@
 
 Submitted by: **Amy Salley**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Updated colors and font size
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with [Recordit](https://github.com/salleya/tip/blob/master/tipDemo.g
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The Decimal Pad keyboard was not always showing up in the simulator.  I had to go to I/O /Keyboard and unselect Connect Hardware Keyboard to ensure the Decimal Pad keyboard would appear when the user taps on the Bill Amount Text Field.
 
 ## License
 
